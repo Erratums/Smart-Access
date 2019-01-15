@@ -10,7 +10,7 @@ _This application helps to control electronic devices remotely. This is a cloud 
 7. Schedule your device to work as you wish
 
 ## [Products](https://erratums.com/products.html)
-### ESSP-101. Single channel relay module
+### ESSP-101(Ex). Single channel relay module
 ![ESSP-101. Single channel relay module](http://erratums.com/images/ESSP-01.jpg)     ![](http://erratums.com/images/ESSP-101-Ex.png)
 
 _**For custom requirements feel free to [contact us](http://erratums.com/contact.html)**_
