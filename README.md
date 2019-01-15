@@ -4,13 +4,16 @@ _This application helps to control electronic devices remotely. This is a cloud 
 1. Switch On/Off your devices
 2. Can send analog signal from 0-255
 3. Can boot your PC/OS using WakeOnLan feature from anywhere
-4. Get instant status notification
-5. Can set count down timer 
-6. Schedule your device to work as you wish
+4. Push buttons to send short interval signals
+5. Get instant status notification
+6. Can set count down timer 
+7. Schedule your device to work as you wish
 
 ## [Products](https://erratums.com/products.html)
 ### ESSP-101. Single channel relay module
 ![ESSP-101. Single channel relay module](http://erratums.com/images/ESSP-01.jpg)
+
+_**For custom requirements feel free to [contact us](http://erratums.com/contact.html)**_
 
 ***
 
