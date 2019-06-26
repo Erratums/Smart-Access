@@ -14,7 +14,10 @@ _This application helps to control electronic devices remotely. This is a cloud 
 ![ESSP-101. Single channel relay module](http://erratums.com/images/ESSP-01.jpg)     ![](http://erratums.com/images/ESSP-101-Ex.png)
 
 ### ESSP-X01(Ex). Multi channel relay module
-![ESSP-201. 2 channel relay module](http://erratums.com/images/main_2_ch.png)     ![ESSP-101. Single channel relay module](http://erratums.com/images/main_4_ch.png)
+![ESSP-201. 2 channel relay module](http://erratums.com/images/main_2_ch.png)     ![ESSP-101. Single channel relay module](http://erratums.com/images/main_4_ch.png)    
+***    
+### [ESSP Modules Registration Demo](https://youtu.be/PCZDAoGRxY4) 
+[![ESSP Modules Registration Demo](https://github.com/Erratums/ESP8266/blob/master/images/youtube-image.png)](https://youtu.be/PCZDAoGRxY4)
 
 _**For custom requirements feel free to [contact us](http://erratums.com/contact.html)**_
 
